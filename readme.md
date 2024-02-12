@@ -103,9 +103,6 @@ Your CFO has also requested detailed trends data on specific card holders. Use t
 * A ReadME file containing your markdown report.
 
 
----
-### Requirements
 
-#### Data Modeling  (20 points)
 
 
